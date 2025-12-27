@@ -22,6 +22,38 @@
 
 ---
 
+## 💼 Featured Production Projects
+
+### 🍽️ EazyDiner — Dining & Restaurant Discovery Platform  
+🔗 https://www.eazydiner.com  
+
+- Migrated and scaled the platform using **Next.js**
+- Improved **Core Web Vitals (65 → 90)** via SSR, code splitting & CLS fixes
+- Optimized booking, routing, and payment flows for high traffic
+- Implemented SEO improvements to boost organic visibility
+- Built reusable, performance-focused UI components
+
+---
+
+### 🏨 The Culinaire — HSBC × EazyDiner Exclusive Dining Platform  
+🔗 https://www.theculinaire.in  
+
+- Led frontend delivery during a critical transition phase
+- Built and maintained a **Next.js SSR-based platform**
+- Improved performance, accessibility, and mobile responsiveness
+- Added unit & integration tests using **Jest & Testing Library**
+- Collaborated with design, backend, and QA teams
+
+---
+
+### 💳 EazyDiner Finance Platform (Internal Dashboard)
+- Built a scalable **React-based finance dashboard** for internal operations
+- Implemented real-time data handling using **React Query & Zustand**
+- Designed accessible UIs with **Tailwind CSS & Radix UI**
+- Ensured code quality and scalability using **Nx, Docker & ESLint**
+
+---
+
 ## 👯 Open to Collaborate On
 - **React / Next.js** applications & SaaS products
 - **Frontend architecture & performance optimization**
