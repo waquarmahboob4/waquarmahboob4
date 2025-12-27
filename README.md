@@ -1,12 +1,144 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building high-performance web applications using React.js & Next.js<br><br>Improving Core Web Vitals, SEO, and SSR performance<br><br>Developing scalable internal dashboards with modern state management (Zustand, React Query)<br><br>Writing clean, testable, and reusable UI components<br><br>👯 I’m looking to collaborate on<br><br>React / Next.js projects (Web apps, dashboards, SaaS platforms)<br><br>Performance optimization & frontend architecture<br><br>Open-source UI libraries or tools<br><br>Products focused on scalability, speed, and user experience<br><br>🤝 I’m looking for help with<br><br>Advanced frontend system design<br><br>Micro-frontends & monorepo architecture<br><br>CI/CD & frontend DevOps best practices<br><br>Backend scaling concepts to become more full-stack confident<br><br>🌱 I’m currently learning<br><br>Advanced Next.js (App Router, caching, streaming)<br><br>Frontend performance deep dives<br><br>System design fundamentals<br><br>Backend concepts (NestJS, APIs, architecture)<br><br>Better testing strategies for large-scale apps<br><br>💬 Ask me about<br><br>React.js & Next.js<br><br>SSR, SEO, Core Web Vitals<br><br>State management (Redux, Zustand, React Query)<br><br>Frontend performance optimization<br><br>Building scalable UI architectures<br><br>ATS-optimized resumes for frontend roles (UAE/GCC)<br><br>⚡ Fun fact<br><br>I love turning slow websites into fast ones 🚀<br><br>I enjoy refactoring code more than writing it from scratch<br><br>Performance improvements excite me more than new features 😄
+# 👋 Hi, I'm Waquar Mahboob
 
+🚀 **Frontend Engineer | React.js • Next.js • TypeScript**  
+🌍 Open to opportunities in **UAE / GCC**  
+⚡ Specialized in **performance optimization, SSR & scalable UI architecture**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waquarmahboob/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26600508) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waquarmahboob4@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waquar_Mahboob-blue?style=flat&logo=linkedin)](https://linkedin.com/in/waquarmahboob)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:waquarmahboob4@gmail.com)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Currently Working On
+- Building **high-performance React & Next.js applications**
+- Improving **Core Web Vitals, SEO, and SSR**
+- Developing **scalable dashboards & internal platforms**
+- Writing **clean, reusable, testable UI components**
+
+---
+
+## 👯 Open to Collaborate On
+- **React / Next.js** applications & SaaS products
+- **Frontend architecture & performance optimization**
+- **Open-source UI libraries & developer tooling**
+- Products focused on **scalability, security & UX**
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Next.js (App Router, caching, streaming)**
+- **Frontend system design & micro-frontends**
+- **CI/CD & DevOps fundamentals**
+- Backend architecture using **NestJS**
+
+---
+
+## 💬 Ask Me About
+- React.js & Next.js (SSR, SEO, performance)
+- State management (**Redux, Zustand, React Query, Context API**)
+- Scalable frontend architecture
+- Large-scale UI development
+
+---
+
+## ⚡ Fun Fact
+I enjoy **refactoring slow apps into fast ones** more than building new features 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
+![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery)
+
+---
+
+### State Management & Data
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react)
+
+---
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat)
+
+---
+
+### Build Tools & Package Managers
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm)
+
+---
+
+### DevOps, Hosting & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
+
+---
+
+### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint)
+
+---
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
+![Electron.js](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal)
+
+---
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell)
+
+---
+
+## 📊 GitHub Stats
+![Waquar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+## 📌 Professional Summary
+Frontend Engineer with **2+ years of production experience** delivering **high-performance React & Next.js applications**.  
+Strong in **SSR, performance optimization, scalable UI systems**, and cross-team collaboration.  
+Actively seeking **Frontend Engineer / React / Next.js roles in UAE & GCC** and **open-source contributions**.
+
+⭐ *If you like my work, consider starring my repositories*
