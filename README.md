@@ -131,14 +131,8 @@ I enjoy **refactoring slow apps into fast ones** more than building new features
 
 ---
 
-## 📊 GitHub Stats
-![Waquar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
 ## 📌 Professional Summary
-Frontend Engineer with **2+ years of production experience** delivering **high-performance React & Next.js applications**.  
+Frontend Engineer with **2.5+ years of production experience** delivering **high-performance React & Next.js applications**.  
 Strong in **SSR, performance optimization, scalable UI systems**, and cross-team collaboration.  
 Actively seeking **Frontend Engineer / React / Next.js roles in UAE & GCC** and **open-source contributions**.
 
