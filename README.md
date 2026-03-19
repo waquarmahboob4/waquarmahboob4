@@ -8,7 +8,7 @@
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waquar_Mahboob-blue?style=flat&logo=linkedin)](https://linkedin.com/in/waquarmahboob)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://portfolio-iota-wheat-74.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://waquar.online/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/waquarmahboob4)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:waquarmahboob4@gmail.com)
 
